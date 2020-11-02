@@ -4,7 +4,7 @@
 #
 Name     : dataclasses
 Version  : 0.7
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/7a/71/fdbab71f1f714e03ead2d264bf444f88379bc09b2937d54ec83894057f80/dataclasses-0.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7a/71/fdbab71f1f714e03ead2d264bf444f88379bc09b2937d54ec83894057f80/dataclasses-0.7.tar.gz
 Summary  : A backport of the dataclasses module for Python 3.6
@@ -55,7 +55,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1604344114
+export SOURCE_DATE_EPOCH=1604344187
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
