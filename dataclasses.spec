@@ -4,7 +4,7 @@
 #
 Name     : dataclasses
 Version  : 0.8
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/1f/12/7919c5d8b9c497f9180db15ea8ead6499812ea8264a6ae18766d93c59fe5/dataclasses-0.8.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1f/12/7919c5d8b9c497f9180db15ea8ead6499812ea8264a6ae18766d93c59fe5/dataclasses-0.8.tar.gz
 Summary  : A backport of the dataclasses module for Python 3.6
